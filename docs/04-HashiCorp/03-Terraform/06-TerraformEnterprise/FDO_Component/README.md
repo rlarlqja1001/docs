@@ -1,6 +1,4 @@
-# [ CTC DevOps Product- Hashicorp Part : FDO 테스트 ]
-
--   [1. Redis Helm 배포](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#1-redis-helm)
+- [1. Redis Helm 배포](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#1-redis-helm)
     -   [Redis](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#redis)
         -   [1.1 helm values.yaml](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#11-helm-valuesyaml)
         -   [1.2 Command](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#12-command)
@@ -73,9 +71,10 @@
     -   [6.7 새로운 클러스터에 정상적으로 restore가 되었는지
         확인](https://github.com/kr-partner/fdo-seperate/tree/main/FDO_TEST_FILE#67-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EC%97%90-%EC%A0%95%EC%83%81%EC%A0%81%EC%9C%BC%EB%A1%9C-restore%EA%B0%80-%EB%90%98%EC%97%88%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8)
 
+# Container component deplomy with helm
+
 
 # 1. Redis Helm
-
 ## Redis
 
 ### 1.1 helm values.yaml
